@@ -1,0 +1,41 @@
+a {
+    color: cornflowerblue;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    color: dimgray;
+}
+h1 { 
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+.link-ativo {
+    color: darkorchid;
+}
+hr {
+  border: none;
+  height: 2px;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+input {
+    width: 500px;
+    height: 45px;
+}
+.Mensagem-contato {
+     width: 500px;
+  height: 200px;
+}
+
+ button {
+    background-color: blue;
+    color: cornsilk;
+    border: NONE;
+     width: 250px;
+  height: 70px;
+
+ }
+ 
